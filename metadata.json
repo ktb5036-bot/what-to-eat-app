@@ -1,0 +1,6 @@
+{
+  "name": "오늘 뭐 먹지?",
+  "description": "몇 가지 질문에 답하면 딱 맞는 오늘 점심·저녁 메뉴를 골라주는 반응형 음식 큐레이션 및 룰렛 추천 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
